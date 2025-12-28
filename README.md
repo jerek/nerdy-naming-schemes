@@ -15,10 +15,20 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Cities.txt](themes/Cities.txt)|Largest cities in the world|475|
 |[Codes.txt](themes/Codes.txt)|Codes A0-Z9|260|
 |[Coins.txt](themes/Coins.txt)|Cryptocurrencies (2017)|701|
+|[Common-Elements.txt](themes/Common-Elements.txt)|Named chemical elements, up to plutonium|94|
+|[Common-Elements-numbered.txt](themes/Common-Elements-numbered.txt)|Named chemical elements, up to plutonium, prefixed with their atomic number|94|
+|[Common-Elements-numbered-padded.txt](themes/Common-Elements-numbered-padded.txt)|Named chemical elements, up to plutonium, prefixed with their zero-padded atomic number|94|
+|[Common-Em.txt](themes/Common-Em.txt)|Symbols for named chemical elements, up to plutonium|94|
+|[Common-Em-numbered.txt](themes/Common-Em-numbered.txt)|Symbols for named chemical elements, up to plutonium, prefixed with their atomic number|94|
+|[Common-Em-numbered-padded.txt](themes/Common-Em-numbered-padded.txt)|Symbols for named chemical elements, up to plutonium, prefixed with their zero-padded atomic number|94|
 |[Countries.txt](themes/Countries.txt)|UN member states|193|
 |[Currencies.txt](themes/Currencies.txt)|National and international currencies|77|
 |[Elements.txt](themes/Elements.txt)|Named chemical elements|118|
+|[Elements-numbered.txt](themes/Elements-numbered.txt)|Named chemical elements, prefixed with their atomic number|118|
+|[Elements-numbered-padded.txt](themes/Elements-numbered-padded.txt)|Named chemical elements, prefixed with their zero-padded atomic number|118|
 |[Em.txt](themes/Em.txt)|Symbols for named chemical elements|118|
+|[Em-numbered.txt](themes/Em-numbered.txt)|Symbols for named chemical elements, prefixed with their atomic number|118|
+|[Em-numbered-padded.txt](themes/Em-numbered-padded.txt)|Symbols for named chemical elements, prefixed with their zero-padded atomic number|118|
 |[Esperanto.txt](themes/Esperanto.txt)|Esperanto words|1626|
 |[Fish.txt](themes/Fish.txt)|Common fish names|1083|
 |[Forbes2000.txt](themes/Forbes2000.txt)|Forbes Global 2000 companies (2021)|2000|
@@ -48,7 +58,7 @@ If you want to add a list, please make a pull request with the new file. I will 
 I started this collection before I knew the term '[naming scheme](https://en.wikipedia.org/wiki/Computer_network_naming_scheme)'. So I'm not sure whether I know all the relevant sources. Many lists in the collections I found contain explanations and comments, so you can't use them to assign names automatically.
 * [Code Name Generator](http://www.codenamegenerator.com/)
 * https://namingschemes.com/
-* https://en.wikipedia.org/wiki/List_of_lists_of_lists 
+* https://en.wikipedia.org/wiki/List_of_lists_of_lists
 * [The EFF's diceware word lists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases)
 * Bitcoin's [BIP-39 word lists](https://github.com/bitcoin/bips/tree/master/bip-0039)
 * SecLists lists of [leaked passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
